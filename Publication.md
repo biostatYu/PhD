@@ -19,11 +19,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
-+ **Xing-Hao Yu**, Yi-Qun Yang, Rong-Rong Cao, Mu-Kun Cai, Lei Zhang, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup> (2021). Rheumatoid Arthritis and Osteoporosis: Shared Genetic Effect, Pleiotropy and Causality
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
+
++ **Xing-Hao Yu**, Yi-Qun Yang, Rong-Rong Cao, Mu-Kun Cai, Lei Zhang, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup> (2021). Rheumatoid Arthritis and Osteoporosis: Shared Genetic Effect, Pleiotropy and Causality. **Human Molecular Genetics**, in press.
 
 + Lihong Huang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Zhou Jiang and Ping Zeng<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**, in press.
 
