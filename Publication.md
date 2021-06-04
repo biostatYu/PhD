@@ -1,11 +1,17 @@
 
 + #: Corresponding Authors; $: Joint First Authors
+> ## Submit
+----------------------------------------------------------------------------------------------------------------------------------------
+```ruby
+```
++ Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache.
+
++ Zhixuan Xing<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
+
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Zhixuan Xing<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
-
 + **Xing-Hao Yu**<sup>$</sup>, Yi-Qun Yang<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup> (2021). The Causal Role of Gut Microbiota in Development of Osteoarthritis.
 
 + **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization
