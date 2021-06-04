@@ -6,9 +6,9 @@
 ```
 + Zhixuan Xing<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
 
-+ **Xing-Hao Yu**<sup>$</sup>, **Yi-Qun Yang**<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup> (2021). The Causal Role of Gut Microbiota in Development of Osteoarthritis.
++ **Xing-Hao Yu**<sup>$</sup>, Yi-Qun Yang<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup> (2021). The Causal Role of Gut Microbiota in Development of Osteoarthritis.
 
-+ **Xing-Hao Yu**<sup>$</sup>, **Rong-Rong Cao**<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
