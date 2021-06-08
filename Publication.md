@@ -32,7 +32,7 @@
 
 + **Xinghao Yu**, Yongyue Wei, Ping Zeng<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, in press.
 
-+ **Xinghao Yu**<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**，in press. [doi: https://doi.org/10.1038/s10038-020-00863-0](https://www.nature.com/articles/s10038-020-00863-0#citeas).
++ **Xinghao Yu**<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**，66: 465–473. [doi: https://doi.org/10.1038/s10038-020-00863-0](https://www.nature.com/articles/s10038-020-00863-0#citeas).
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2020
