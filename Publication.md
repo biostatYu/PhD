@@ -28,7 +28,7 @@
 
 + **Xing-Hao Yu**, Yi-Qun Yang, Rong-Rong Cao, Mu-Kun Cai, Lei Zhang, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup> (2021). Rheumatoid Arthritis and Osteoporosis: Shared Genetic Effect, Pleiotropy and Causality. **Human Molecular Genetics**, in press.
 
-+ Lihong Huang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Zhou Jiang and Ping Zeng<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**, in press.
++ Lihong Huang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Zhou Jiang and Ping Zeng<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**, 17 June 2021 | [doi: https://doi.org/10.3389/fgene.2021.673319]
 
 + **Xinghao Yu**, Yongyue Wei, Ping Zeng<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, [doi: https://doi.org/10.1002/jbmr.4316]
 
