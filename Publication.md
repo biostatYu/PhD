@@ -14,7 +14,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ **Xing-Hao Yu**<sup>$</sup>, Yi-Qun Yang<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup> (2021). The Causal Role of Gut Microbiota in Development of Osteoarthritis.
 
 + **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization
 
@@ -27,6 +26,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
+> 
++ **Xing-Hao Yu**<sup>$</sup>, Yi-Qun Yang<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup> (2021). The Causal Role of Gut Microbiota in Development of Osteoarthritis.
+**Osteoarthritis and Cartilage**, in press.
 
 + **Xing-Hao Yu**, Yi-Qun Yang, Rong-Rong Cao, Mu-Kun Cai, Lei Zhang, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup> (2021). Rheumatoid Arthritis and Osteoporosis: Shared Genetic Effect, Pleiotropy and Causality. **Human Molecular Genetics**, in press.
 
