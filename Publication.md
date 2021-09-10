@@ -4,11 +4,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup> (2021). Identification of causal metabolites related to 9 major autoimmune diseases.
-+ 
+
 + Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache.
 
-+ Zhixuan Xing<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
+
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -27,6 +26,8 @@
 
 > ## 2021
 > 
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup> (2021). Identification of causal metabolites related to 9 major autoimmune diseases. **Human Molecular Genetics**, in press.
+
 + **Xing-Hao Yu**<sup>$</sup>, Yi-Qun Yang<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup> (2021). The Causal Role of Gut Microbiota in Development of Osteoarthritis.
 **Osteoarthritis and Cartilage**, in press.
 
