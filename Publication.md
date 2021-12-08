@@ -5,8 +5,8 @@
 ```ruby
 ```
 
-+ Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache.
-
+RA
+BSA
 
 
 > ## Under review
@@ -15,6 +15,7 @@
 ```
 
 + **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization
++ + Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
