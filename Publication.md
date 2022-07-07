@@ -2,29 +2,28 @@
 + #: Corresponding Authors; $: Joint First Authors
 > ## Submit
 ----------------------------------------------------------------------------------------------------------------------------------------
-```ruby
-```
 
 + RA
-+ BSA
-
++ COVID-19
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-```ruby
-```
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization
 + Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
-```ruby
-```
+
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization.
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2022). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+> ## 2022
+> 
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Systematic Evaluation of Rheumatoid Arthritis Risk by Integrating Lifestyle Factors and Genetic Risk Scores. **Frontiers in Immunolgy**. [doi: https://doi.org/10.3389/fimmu.2022.901223](https://www.frontiersin.org/articles/10.3389/fimmu.2022.901223/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Immunology&id=901223)
 
+---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2021
 > 
 + **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup> (2021). Identification of causal metabolites related to 9 major autoimmune diseases. **Human Molecular Genetics**, in press.
