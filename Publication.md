@@ -3,25 +3,33 @@
 > ## Submit
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-+ RA
-+ COVID-19
+
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-+ Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache.
++ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.
+
++ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort.
+
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
 
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2022). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2022
-> 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization.
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2022). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**.
+ 
++ Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache. **Frontiers in Immunolgy**.
+
++ Yi-Qun Yang<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, ..., Shu-Feng Lei# Genetic Risk for Osteoporosis and the Benefit of Adherence to Healthy Lifestyles. International Journal of Public Health.
+
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization. **Frontiers in Public Health**.
 
 + **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Systematic Evaluation of Rheumatoid Arthritis Risk by Integrating Lifestyle Factors and Genetic Risk Scores. **Frontiers in Immunolgy**. [doi: https://doi.org/10.3389/fimmu.2022.901223](https://www.frontiersin.org/articles/10.3389/fimmu.2022.901223/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Immunology&id=901223)
 
