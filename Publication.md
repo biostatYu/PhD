@@ -23,29 +23,29 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2022
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2022). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**.
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2023). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590.
  
-+ Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). Associations of Immune Traits with Bone Mineral Density: A Mendelian Randomization Approache. **Frontiers in Immunolgy**.
++ Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2022). The immune factors have complex causal regulation effects on bone mineral density. **Frontiers in Immunolgy**.2022 Oct 20;13:959417.
 
-+ Yi-Qun Yang<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, ..., Shu-Feng Lei# Genetic Risk for Osteoporosis and the Benefit of Adherence to Healthy Lifestyles. International Journal of Public Health.
++ Yi-Qun Yang<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>,  Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Genetic Risk for Osteoporosis and the Benefit of Adherence to Healthy Lifestyles. International Journal of Public Health. 2022 Sep 13;67:1605114. doi: 10.3389/ijph.2022.1605114.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2021). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization. **Frontiers in Public Health**.
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup> (2022). Systematic evaluation for the causal effects of blood metabolites on osteoporosis: Genetic risk score and Mendelian randomization. **Frontiers in Public Health**.2022 Aug 25;10:905178.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Systematic Evaluation of Rheumatoid Arthritis Risk by Integrating Lifestyle Factors and Genetic Risk Scores. **Frontiers in Immunolgy**. [doi: https://doi.org/10.3389/fimmu.2022.901223](https://www.frontiersin.org/articles/10.3389/fimmu.2022.901223/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Immunology&id=901223)
-
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Systematic Evaluation of Rheumatoid Arthritis Risk by Integrating Lifestyle Factors and Genetic Risk Scores. **Frontiers in Immunolgy**. 2022 Jul 6;13:901223.
+ 
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup> (2022). Identification of causal metabolites related to 9 major autoimmune diseases. **Human Molecular Genetics**, 2022 Feb 21;31(4):604-613.
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2021
 > 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Shu-Feng Lei<sup>#</sup> (2021). Identification of causal metabolites related to 9 major autoimmune diseases. **Human Molecular Genetics**, in press.
 
 + **Xing-Hao Yu**<sup>$</sup>, Yi-Qun Yang<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup> (2021). The Causal Role of Gut Microbiota in Development of Osteoarthritis.
-**Osteoarthritis and Cartilage**, in press.
+**Osteoarthritis and Cartilage**, 2021 Dec;29(12):1741-1750.
 
-+ **Xing-Hao Yu**, Yi-Qun Yang, Rong-Rong Cao, Mu-Kun Cai, Lei Zhang, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup> (2021). Rheumatoid Arthritis and Osteoporosis: Shared Genetic Effect, Pleiotropy and Causality. **Human Molecular Genetics**, in press.
++ **Xing-Hao Yu**, Yi-Qun Yang, Rong-Rong Cao, Mu-Kun Cai, Lei Zhang, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup> (2021). Rheumatoid Arthritis and Osteoporosis: Shared Genetic Effect, Pleiotropy and Causality. **Human Molecular Genetics**. 2021 Oct 13;30(21):1932-1940.
 
-+ Lihong Huang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Zhou Jiang and Ping Zeng<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**, 17 June 2021 | [doi: https://doi.org/10.3389/fgene.2021.673319]
++ Lihong Huang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Zhou Jiang and Ping Zeng<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**, 2021 Jun 17;12:673319. doi: 10.3389/fgene.2021.673319.
 
-+ **Xinghao Yu**, Yongyue Wei, Ping Zeng<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, [doi: https://doi.org/10.1002/jbmr.4316]
++ **Xinghao Yu**, Yongyue Wei, Ping Zeng<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, 2021 Aug;36(8):1469-1480.
 
 + **Xinghao Yu**<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**，66: 465–473. [doi: https://doi.org/10.1038/s10038-020-00863-0](https://www.nature.com/articles/s10038-020-00863-0#citeas).
 
