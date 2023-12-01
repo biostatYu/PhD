@@ -21,12 +21,12 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
 
-+ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.2022 Aug 25;10:905178.
++ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.2023 Mar 21;11:1119774.
 
----------------------------------------------------------------------------------------------------------------------------------------
-> ## 2022
 + **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2023). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590.
  
+---------------------------------------------------------------------------------------------------------------------------------------
+> ## 2022
 + Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2022). The immune factors have complex causal regulation effects on bone mineral density. **Frontiers in Immunolgy**.2022 Oct 20;13:959417.
 
 + Yi-Qun Yang<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>,  Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Genetic Risk for Osteoporosis and the Benefit of Adherence to Healthy Lifestyles. International Journal of Public Health. 2022 Sep 13;67:1605114. doi: 10.3389/ijph.2022.1605114.
