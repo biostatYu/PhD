@@ -11,7 +11,7 @@
 
 + **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
++ **Xing-Hao Yu**, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
