@@ -11,7 +11,7 @@
 
 + **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort.
 
-+ **Xing-Hao Yu**, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@
 
 + **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.2023 Mar 21;11:1119774.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2023). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590.
++ **Xing-Hao Yu**, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2023). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590.
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2022
