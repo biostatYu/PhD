@@ -7,7 +7,7 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-
++ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2022). Shared Genetic Architecture between Autoimmune Disorders and B-cell Acute Lymphoblastic Leukemia: Insights from Large-scale Genome-Wide Cross-Trait Analysis
 
 + **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Yi-Qun Yang, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort.
 
