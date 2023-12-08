@@ -17,9 +17,9 @@
 
 > ## revised
 
-
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
++ Yi Jin<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Jun Li, Xiaomin Li<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Causal effects and immune cell mediators between Prescription Analgesic Use and Risk of Infectious Diseases: A Mendelian Randomization Study. Frontiers in Immunology. In press.
 
 + **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.2023 Mar 21;11:1119774.
 
