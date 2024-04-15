@@ -22,13 +22,13 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2024
-+ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2022). Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. BMC Med 22, 161 (2024). https://doi.org/10.1186/s12916-024-03385-0.
++ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2022). Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. BMC Medicine 22, 161 (2024). https://doi.org/10.1186/s12916-024-03385-0.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
 + Yi Jin<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Jun Li, Xiaomin Li<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Causal effects and immune cell mediators between Prescription Analgesic Use and Risk of Infectious Diseases: A Mendelian Randomization Study. Frontiers in Immunology. In press.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.2023 Mar 21;11:1119774.
++ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.Frontiers in Public Health. 2023 Mar 21;11:1119774.
 
 + **Xing-Hao Yu**, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2023). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590.
  
