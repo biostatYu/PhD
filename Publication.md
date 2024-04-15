@@ -18,7 +18,11 @@
 
 > ## revised
 
-+ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2022). Shared Genetic Architecture between Autoimmune Disorders and B-cell Acute Lymphoblastic Leukemia: Insights from Large-scale Genome-Wide Cross-Trait Analysis
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+> ## 2024
++ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2022). Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. BMC Med 22, 161 (2024). https://doi.org/10.1186/s12916-024-03385-0.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
