@@ -22,8 +22,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2024
-+ **Ya-Qi Hu**<sup>$</sup>, Xiao-Jia Jin<sup>$</sup>, Shu-Feng Lei, Xing-Hao Yu<sup>#</sup>, Lin Bo<sup>#</sup> (2024). Inflammatory bowel disease and osteoporosis Common genetic effects, pleiotropy, and causality. Human Immunology 22, 161 (2024). https://doi.org/10.1186/s12916-024-03385-0.
-+ 
++ **Ya-Qi Hu**<sup>$</sup>, Xiao-Jia Jin<sup>$</sup>, Shu-Feng Lei, Xing-Hao Yu<sup>#</sup>, Lin Bo<sup>#</sup> (2024). Inflammatory bowel disease and osteoporosis Common genetic effects, pleiotropy, and causality. Human Immunology
 + **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. BMC Medicine 22, 161 (2024). https://doi.org/10.1186/s12916-024-03385-0.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
