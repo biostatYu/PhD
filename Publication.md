@@ -17,21 +17,25 @@
 > ## revised
 
 
+---------------------------------------------------------------------------------------------------------------------------------------
+> ## 2025
++ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Mendelian Randomization Analysis of Blood Metabolites and Immune Cell Mediators in Relation to GVHD and Relapse. **BMC Medicine**. Im press.
++ Yi-Qun Yang<sup>$</sup>, Han-Wen Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort. **Plos one**. Im press.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2024
-+ **Xing-Hao Yu**<sup>$</sup>, **Huimin Lu**<sup>$</sup>, ..., Yi Jin<sup>#</sup> (2024). Association between 25(OH) Vitamin D and Multiple Sclerosis: Cohort, Shared Genetics, and Causality. Nutrition Journal
-+ ..., **Huimin Lu**, Yi Jin<sup>#</sup> (2024). Association between 25(OH) Vitamin D and Schizophrenia: Shared genetic Correlation, Pleiotropy and Causality. Frontiers in Nutrition.
-+ Ya-Qi Hu<sup>$</sup>, Xiao-Jia Jin<sup>$</sup>, Shu-Feng Lei, **Xing-Hao Yu**<sup>#</sup>, Lin Bo<sup>#</sup> (2024). Inflammatory bowel disease and osteoporosis Common genetic effects, pleiotropy, and causality. Human Immunology
-+ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. BMC Medicine 22, 161 (2024). https://doi.org/10.1186/s12916-024-03385-0.
++ **Xing-Hao Yu**<sup>$</sup>, **Huimin Lu**<sup>$</sup>, ..., Yi Jin<sup>#</sup> (2024). Association between 25(OH) Vitamin D and Multiple Sclerosis: Cohort, Shared Genetics, and Causality. **Nutrition Journal**. 2024 Nov 30;23(1):151. doi: 10.1186/s12937-024-01059-4. PMID: 39616386; PMCID: PMC11608472.
++ ..., **Huimin Lu**, Yi Jin<sup>#</sup> (2024). Association between 25(OH) Vitamin D and Schizophrenia: Shared genetic Correlation, Pleiotropy and Causality. **Frontiers in Nutrition**. 2024 Dec 13;11:1415132. doi: 10.3389/fnut.2024.1415132. PMID: 39734669; PMCID: PMC11671254.
++ Ya-Qi Hu<sup>$</sup>, Xiao-Jia Jin<sup>$</sup>, Shu-Feng Lei, **Xing-Hao Yu**<sup>#</sup>, Lin Bo<sup>#</sup> (2024). Inflammatory bowel disease and osteoporosis Common genetic effects, pleiotropy, and causality. **Human Immunology**. 2024 Sep;85(5):110856. doi: 10.1016/j.humimm.2024.110856. Epub 2024 Jul 16. PMID: 39018711.
++ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. **BMC Medicine**. 2024 Apr 15;22(1):161. doi: 10.1186/s12916-024-03385-0. PMID: 38616254; PMCID: PMC11017616.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
-+ Yi Jin<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Jun Li, Xiaomin Li<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Causal effects and immune cell mediators between Prescription Analgesic Use and Risk of Infectious Diseases: A Mendelian Randomization Study. Frontiers in Immunology. In press.
++ Yi Jin<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Jun Li, Xiaomin Li<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Causal effects and immune cell mediators between Prescription Analgesic Use and Risk of Infectious Diseases: A Mendelian Randomization Study. **Frontiers in Immunology**. 2023 Dec 21;14:1319127. doi: 10.3389/fimmu.2023.1319127. PMID: 38193081; PMCID: PMC10772142.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank.Frontiers in Public Health. 2023 Mar 21;11:1119774.
++ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank. **Frontiers in Public Health**. 2023 Mar 21;11:1119774.
 
-+ **Xing-Hao Yu**, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2023). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590.
++ **Xing-Hao Yu**, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup> (2023). Body surface area (BSA) is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Mar 21;11:1119774. doi: 10.3389/fpubh.2023.1119774. PMID: 37026121; PMCID: PMC10071034.
  
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2022
