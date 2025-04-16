@@ -19,7 +19,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
-+ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Mendelian Randomization Analysis of Blood Metabolites and Immune Cell Mediators in Relation to GVHD and Relapse. **BMC Medicine**. Im press.
++ **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Lei Lei<sup>$</sup>, Pengfei Li<sup>$</sup>, Dandan Lin, Ying Shen, Chang Hou, Jia Chen, Yi Fan, Yi Jin, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Mendelian Randomization Analysis of Blood Metabolites and Immune Cell Mediators in Relation to GVHD and Relapse. **BMC Medicine**. Im press.
 + Yi-Qun Yang<sup>$</sup>, Han-Wen Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort. **Plos one**. Im press.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
