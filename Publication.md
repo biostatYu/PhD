@@ -19,6 +19,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
++ Yi-Yin Chen<sup>$</sup>, **Xing-Hao Yu<sup>$</sup><sup>#</sup>**, Yi-Ming Cai<sup>$</sup>, Zhou Jin, Yang Xu<sup>#</sup>. Large-Scale Mediator Mendelian Randomization Analysis Identifies Multiple Immune Cells Mediating the Causal Link Between Gut Microbes and Chronic Graft-Versus-Host Disease Risk. **Experimental Hematology**. Im press.
 + Yi-Qun Yang<sup>$</sup>, Han-Wen Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort. **Plos one**. Im press.
 + **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Lei Lei<sup>$</sup>, Pengfei Li<sup>$</sup>, Dandan Lin, Ying Shen, Chang Hou, Jia Chen, Yi Fan, Yi Jin, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Mendelian randomization analysis of blood metabolites and immune cell mediators in relation to GVHD and relapse. **BMC Medicine**. 2025 Apr 7;23(1):201. doi: 10.1186/s12916-025-04026-w. PMID: 40189523; PMCID: PMC11974087.
   
