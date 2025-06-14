@@ -4,36 +4,41 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
 
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
 + **Huimin Lu<sup>$</sup>**, Yi Jin<sup>$</sup>, Lin Zhu<sup>$</sup>, Yanfeng Hou, **Xinghao Yu**, Lijuan Wang<sup>#</sup> Genetic Evidence on the Crucial Role of Immune Cells in Postpartum Depression: Mendelian Randomization Analysis. International Journal of Gynecology & Obstetrics. In Press.
 
 + Pengfei Li<sup>$</sup>, Qiyi Lei<sup>$</sup>, **Xinghao Yu<sup>$</sup>**, Ying Shen<sup>$</sup>, Yiyin Chen<sup>$</sup>, Chang Hou, Bo Hu, Yanfang Cui, Zhihua Liu, Yi Qin, Haiyan Liu, Dandan Lin<sup>#</sup>, Yang Xu<sup>#</sup>, Depei Wu<sup>#</sup>. Commensal Bacteroides T6SS alleviate GI-aGVHD via mediating gut microbiota composition and bile acids metabolism. **Gut**. 2025 May 28:gutjnl-2024-334565. doi: 10.1136/gutjnl-2024-334565. Epub ahead of print. PMID: 40441865.
+
 + Yi-Yin Chen<sup>$</sup>, **Xing-Hao Yu<sup>$</sup><sup>#</sup>**, Yi-Ming Cai<sup>$</sup>, Zhou Jin, Yang Xu<sup>#</sup>. Large-Scale Mediator Mendelian Randomization Analysis Identifies Multiple Immune Cells Mediating the Causal Link Between Gut Microbes and Chronic Graft-Versus-Host Disease Risk. **Experimental Hematology**. 2025 Apr 30:104794. doi: 10.1016/j.exphem.2025.104794.
+
 + Yi-Qun Yang<sup>$</sup>, Han-Wen Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2022). Poor Sleep and High Rheumatoid Arthritis Risk:Evidence from Large UK Biobank Cohort. **Plos one**. 2025 Apr 23;20(4):e0318728. doi: 10.1371/journal.pone.0318728. PMID: 40267155.
+
 + **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Lei Lei<sup>$</sup>, Pengfei Li<sup>$</sup>, Dandan Lin, Ying Shen, Chang Hou, Jia Chen, Yi Fan, Yi Jin, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Mendelian randomization analysis of blood metabolites and immune cell mediators in relation to GVHD and relapse. **BMC Medicine**. 2025 Apr 7;23(1):201. doi: 10.1186/s12916-025-04026-w. PMID: 40189523; PMCID: PMC11974087.
   
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2024
-+ **Xing-Hao Yu**<sup>$</sup>, **Huimin Lu**<sup>$</sup>, ..., Yi Jin<sup>#</sup> (2024). Association between 25(OH) Vitamin D and Multiple Sclerosis: Cohort, Shared Genetics, and Causality. **Nutrition Journal**. 2024 Nov 30;23(1):151. doi: 10.1186/s12937-024-01059-4. PMID: 39616386; PMCID: PMC11608472.
++ **Xing-Hao Yu<sup>$</sup>**, **Huimin Lu<sup>$</sup>**, ..., Yi Jin<sup>#</sup> (2024). Association between 25(OH) Vitamin D and Multiple Sclerosis: Cohort, Shared Genetics, and Causality. **Nutrition Journal**. 2024 Nov 30;23(1):151. doi: 10.1186/s12937-024-01059-4. PMID: 39616386; PMCID: PMC11608472.
+
 + ..., **Huimin Lu**, Yi Jin<sup>#</sup> (2024). Association between 25(OH) Vitamin D and Schizophrenia: Shared genetic Correlation, Pleiotropy and Causality. **Frontiers in Nutrition**. 2024 Dec 13;11:1415132. doi: 10.3389/fnut.2024.1415132. PMID: 39734669; PMCID: PMC11671254.
+
 + Ya-Qi Hu<sup>$</sup>, Xiao-Jia Jin<sup>$</sup>, Shu-Feng Lei, **Xing-Hao Yu**<sup>#</sup>, Lin Bo<sup>#</sup> (2024). Inflammatory bowel disease and osteoporosis Common genetic effects, pleiotropy, and causality. **Human Immunology**. 2024 Sep;85(5):110856. doi: 10.1016/j.humimm.2024.110856. Epub 2024 Jul 16. PMID: 39018711.
+
 + **Xing-Hao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup> (2024). Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. **BMC Medicine**. 2024 Apr 15;22(1):161. doi: 10.1186/s12916-024-03385-0. PMID: 38616254; PMCID: PMC11017616.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
++ Jie Gu<sup>$</sup>, Guan-Min Yan<sup>$</sup>, XiaoLin Kong, YinYing Zhang, LiHong Huang, **HuiMin Lu<sup>#</sup>**. Assessing the causal relationship between immune traits and systemic lupus erythematosus by bi-directional Mendelian randomization analysis. Mol Genet Genomics. 2023;298(6):1493-1503. doi:10.1007/s00438-023-02071-9.
 + Yi Jin<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Jun Li, Xiaomin Li<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Causal effects and immune cell mediators between Prescription Analgesic Use and Risk of Infectious Diseases: A Mendelian Randomization Study. **Frontiers in Immunology**. 2023 Dec 21;14:1319127. doi: 10.3389/fimmu.2023.1319127. PMID: 38193081; PMCID: PMC10772142.
 
 + **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup> (2023). Air Pollution, Genetic Factors and the Risk of Osteoporosis: A Prospective Study in the UK Biobank. **Frontiers in Public Health**. 2023 Mar 21;11:1119774. doi: 10.3389/fpubh.2023.1119774. PMID: 37026121; PMCID: PMC10071034.
