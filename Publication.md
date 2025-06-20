@@ -16,7 +16,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
-+ **Huimin Lu<sup>$</sup>**, Yi Jin<sup>$</sup>, Lin Zhu<sup>$</sup>, Yanfeng Hou, **Xinghao Yu**, Lijuan Wang<sup>#</sup> Genetic Evidence on the Crucial Role of Immune Cells in Postpartum Depression: Mendelian Randomization Analysis. International Journal of Gynecology & Obstetrics. In Press.
++ **Huimin Lu<sup>$</sup>**, Yi Jin<sup>$</sup>, Lin Zhu<sup>$</sup>, Yanfeng Hou, **Xinghao Yu**, Lijuan Wang<sup>#</sup> Genetic Evidence on the Crucial Role of Immune Cells in Postpartum Depression: Mendelian Randomization Analysis. International Journal of Gynecology & Obstetrics. 2025 Jun 18. doi: 10.1002/ijgo.70321. Epub ahead of print. PMID: 40530757.
 
 + Pengfei Li<sup>$</sup>, Qiyi Lei<sup>$</sup>, **Xinghao Yu<sup>$</sup>**, Ying Shen<sup>$</sup>, Yiyin Chen<sup>$</sup>, Chang Hou, Bo Hu, Yanfang Cui, Zhihua Liu, Yi Qin, Haiyan Liu, Dandan Lin<sup>#</sup>, Yang Xu<sup>#</sup>, Depei Wu<sup>#</sup>. Commensal Bacteroides T6SS alleviate GI-aGVHD via mediating gut microbiota composition and bile acids metabolism. **Gut**. 2025 May 28:gutjnl-2024-334565. doi: 10.1136/gutjnl-2024-334565. Epub ahead of print. PMID: 40441865.
 
