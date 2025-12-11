@@ -12,10 +12,15 @@
 
 > ## revised
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> (2021). The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
+
++ Binjie Zhu<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, **Huimin Lu**<sup>$</sup>, Mingzhu Su, Xiaomin Li, Jianhua Jin, Yongmin Yan, Yi Jin<sup>$</sup> Prospective evidence for the gut-bone axis in osteoporotic fractures: Insights from genetic prediction and metabolite mediators. Bone. 2025 Dec;201:117651. doi: 10.1016/j.bone.2025.117651. Epub 2025 Sep 17. PMID: 40972893.
+
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup> The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19. Mol Genet Genomics. 2025 Oct 14;300(1):98. doi: 10.1007/s00438-025-02304-z. PMID: 41085581.
+  
 + **Huimin Lu<sup>$</sup>**, Yi Jin<sup>$</sup>, Lin Zhu<sup>$</sup>, Yanfeng Hou, **Xinghao Yu**, Lijuan Wang<sup>#</sup> Genetic Evidence on the Crucial Role of Immune Cells in Postpartum Depression: Mendelian Randomization Analysis. International Journal of Gynecology & Obstetrics. 2025 Jun 18. doi: 10.1002/ijgo.70321. Epub ahead of print. PMID: 40530757.
 
 + Pengfei Li<sup>$</sup>, Qiyi Lei<sup>$</sup>, **Xinghao Yu<sup>$</sup>**, Ying Shen<sup>$</sup>, Yiyin Chen<sup>$</sup>, Chang Hou, Bo Hu, Yanfang Cui, Zhihua Liu, Yi Qin, Haiyan Liu, Dandan Lin<sup>#</sup>, Yang Xu<sup>#</sup>, Depei Wu<sup>#</sup>. Commensal Bacteroides T6SS alleviate GI-aGVHD via mediating gut microbiota composition and bile acids metabolism. **Gut**. 2025 May 28:gutjnl-2024-334565. doi: 10.1136/gutjnl-2024-334565. Epub ahead of print. PMID: 40441865.
