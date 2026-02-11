@@ -12,6 +12,9 @@
 
 > ## revised
 
++ Yi Jin<sup>$</sup>, **Huimin Lu**<sup>$</sup>, **Xinghao Yu**<sup>$</sup>. Pleiotropic gene mapping reveals shared immune regulatory hubs across 15 autoimmune diseases. Hum Immunol. 2026 Feb;87(2):111636. doi: 10.1016/j.humimm.2025.111636. Epub 2025 Dec 16. PMID: 41406704.
++ 
++ Yi Jin<sup>$</sup>, **Huimin Lu**<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Mingzhu Su, Jun Li, Xiaomin Li, Jianhua Jin, Liting Zhang, Yue Wang. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. Mediators Inflamm. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. eCollection 2026. PMID: 41624379. PMCID: PMC12860421.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
