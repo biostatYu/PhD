@@ -22,11 +22,11 @@
 
 + Yi Jin<sup>#</sup>, **Huimin Lu**, **Xinghao Yu**. Pleiotropic gene mapping reveals shared immune regulatory hubs across 15 autoimmune diseases. **Human Immunology**. 2026 Feb;87(2):111636. doi: 10.1016/j.humimm.2025.111636. PMID: 41406704.
 
-+ Yi Jin<sup>$</sup><sup>#</sup>, **Huimin Lu**<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Mingzhu Su, Jun Li, Xiaomin Li, Jianhua Jin<sup>#</sup>, Li-Ting Zhang<sup>#</sup>, Yue Wang<sup>#</sup>. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. **Mediators of Inflammation**. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. PMID: 41624379. PMCID: PMC12860421.
++ Yi Jin<sup>$</sup><sup>#</sup>, **Huimin Lu**<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Mingzhu Su, Jun Li, Xiaomin Li, Jianhua Jin<sup>#</sup>, Liting Zhang<sup>#</sup>, Yue Wang<sup>#</sup>. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. **Mediators of Inflammation**. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. PMID: 41624379. PMCID: PMC12860421.
 
 + Yiyin Chen, Haibo Huang, Xiang Wang, **Xinghao Yu**, Ziyan Huang, Zhou Jin, Chen Chen, Yan Chen, Bruce R. Blazar, Yang Xu, Yunjie Lu. Regulatory T Cells and Nanomaterials: Dual Perspectives in Therapeutics and Immunomodulation. **Small Science**. 2026 Jan;6(1):e202500481. doi: 10.1002/smsc.202500481. PMID: 41537174. PMCID: PMC12798795.
 
-+ Zhi-Dan Yu, Hai-Bei Zang, Yun-Jie Zhu, **Xinghao Yu**, Chang-Hua Tang, Hanwen Cao, Xiao-Li Huang, Lin Bo, Shufeng Lei, Feiyan Deng. Facial skin aging is a potential osteoporosis-associated marker: evidence from both observational and genetic studies. **Journal of Bone and Mineral Metabolism**. 2026 Jan;44(1):28-38. doi: 10.1007/s00774-025-01654-3. PMID: 41193836.
++ Zhidan Yu, Haibei Zang, Yunjie Zhu, **Xinghao Yu**, Changhua Tang, Hanwen Cao, Xiaoli Huang, Lin Bo, Shufeng Lei, Feiyan Deng. Facial skin aging is a potential osteoporosis-associated marker: evidence from both observational and genetic studies. **Journal of Bone and Mineral Metabolism**. 2026 Jan;44(1):28-38. doi: 10.1007/s00774-025-01654-3. PMID: 41193836.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
@@ -59,7 +59,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
 
-+ Jie Gu<sup>$</sup>, Guan-Min Yan<sup>$</sup>, Xiao-Lin Kong, Yin-Ying Zhang, Li-Hong Huang, **Huimin Lu**<sup>#</sup>. Assessing the causal relationship between immune traits and systemic lupus erythematosus by bi-directional Mendelian randomization analysis. **Molecular Genetics and Genomics**. 2023;298(6):1493-1503. doi: 10.1007/s00438-023-02071-9.
++ Jie Gu<sup>$</sup>, Guanmin Yan<sup>$</sup>, Xiaolin Kong, Yinying Zhang, Lihong Huang, **Huimin Lu**<sup>#</sup>. Assessing the causal relationship between immune traits and systemic lupus erythematosus by bi-directional Mendelian randomization analysis. **Molecular Genetics and Genomics**. 2023;298(6):1493-1503. doi: 10.1007/s00438-023-02071-9.
 
 + Yi Jin<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Jun Li, Mingzhu Su, Xiaomin Li. Causal effects and immune cell mediators between prescription analgesic use and risk of infectious diseases: a Mendelian randomization study. **Frontiers in Immunology**. 2023 Dec 21;14:1319127. doi: 10.3389/fimmu.2023.1319127. PMID: 38193081. PMCID: PMC10772142.
 
@@ -70,7 +70,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2022
 
-+ Rongrong Cao<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Meng-Fei Xiong, Xue-Ting Li, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. The immune factors have complex causal regulation effects on bone mineral density. **Frontiers in Immunology**. 2022 Oct 20;13:959417. doi: 10.3389/fimmu.2022.959417. PMID: 36341399. PMCID: PMC9630477.
++ Rongrong Cao<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Mengfei Xiong, Xueting Li, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. The immune factors have complex causal regulation effects on bone mineral density. **Frontiers in Immunology**. 2022 Oct 20;13:959417. doi: 10.3389/fimmu.2022.959417. PMID: 36341399. PMCID: PMC9630477.
 
 + Yiqun Yang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Lin Bo, Shufeng Lei<sup>#</sup>, Feiyan Deng<sup>#</sup>. Genetic risk for osteoporosis and the benefit of adherence to healthy lifestyles. **International Journal of Public Health**. 2022 Sep 13;67:1605114. doi: 10.3389/ijph.2022.1605114. PMID: 36176357. PMCID: PMC9513025.
 
@@ -86,9 +86,9 @@
 
 + **Xinghao Yu**<sup>$</sup>, Yiqun Yang<sup>$</sup>, Rongrong Cao, Lin Bo, Shufeng Lei<sup>#</sup>. The causal role of gut microbiota in development of osteoarthritis. **Osteoarthritis and Cartilage**. 2021 Dec;29(12):1741-1750. doi: 10.1016/j.joca.2021.08.003. PMID: 34425228.
 
-+ **Xinghao Yu**, Yiqun Yang, Rongrong Cao, Mu-Kun Cai, Lei Zhang, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. Rheumatoid arthritis and osteoporosis: shared genetic effect, pleiotropy and causality. **Human Molecular Genetics**. 2021 Oct 13;30(21):1932-1940. doi: 10.1093/hmg/ddab158. PMID: 34132789.
++ **Xinghao Yu**, Yiqun Yang, Rongrong Cao, Mukun Cai, Lei Zhang, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. Rheumatoid arthritis and osteoporosis: shared genetic effect, pleiotropy and causality. **Human Molecular Genetics**. 2021 Oct 13;30(21):1932-1940. doi: 10.1093/hmg/ddab158. PMID: 34132789.
 
-+ **Xinghao Yu**, Yong-Yue Wei, Ping Zeng<sup>#</sup>, Shufeng Lei<sup>#</sup>. Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**. 2021 Aug;36(8):1469-1480. doi: 10.1002/jbmr.4316. PMID: 34105796.
++ **Xinghao Yu**, Yongyue Wei, Ping Zeng<sup>#</sup>, Shufeng Lei<sup>#</sup>. Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**. 2021 Aug;36(8):1469-1480. doi: 10.1002/jbmr.4316. PMID: 34105796.
 
 + Lihong Huang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Zhou Jiang, Ping Zeng<sup>#</sup>. Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**. 2021 Jun 17;12:673319. doi: 10.3389/fgene.2021.673319. PMID: 34220946. PMCID: PMC8248343.
 
