@@ -20,9 +20,9 @@
 
 + Yiyin Chen<sup>$</sup>, **Xinghao Yu**<sup>$</sup><sup>#</sup>, Zhou Jin<sup>$</sup>, Chuanhe Jiang<sup>$</sup>, Xiaoxia Hu<sup>#</sup>, Yang Xu<sup>#</sup>. Development and Validation of a Cytokine-Based Predictive Model for Acute GvHD and Composite Outcomes in ATG-Based Haploidentical Hematopoietic Stem Cell Transplantation. **Mediators of Inflammation**. 2026;2026(1):e3165406. doi: 10.1155/mi/3165406. PMID: 42377328.
 
-+ Yi Jin<sup>$</sup>, **Hui-Min Lu**<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>. Pleiotropic gene mapping reveals shared immune regulatory hubs across 15 autoimmune diseases. **Human Immunology**. 2026 Feb;87(2):111636. doi: 10.1016/j.humimm.2025.111636. PMID: 41406704.
++ Yi Jin<sup>#</sup>, **Hui-Min Lu**, **Xing-Hao Yu**. Pleiotropic gene mapping reveals shared immune regulatory hubs across 15 autoimmune diseases. **Human Immunology**. 2026 Feb;87(2):111636. doi: 10.1016/j.humimm.2025.111636. PMID: 41406704.
 
-+ Yi Jin<sup>$</sup>, **Hui-Min Lu**<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Ming-Zhu Su, Jun Li, Xiao-Min Li, Jian-Hua Jin, Li-Ting Zhang, Yue Wang. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. **Mediators of Inflammation**. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. PMID: 41624379. PMCID: PMC12860421.
++ Yi Jin<sup>$</sup><sup>#</sup>, **Hui-Min Lu**<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Ming-Zhu Su, Jun Li, Xiao-Min Li, Jian-Hua Jin<sup>#</sup>, Li-Ting Zhang<sup>#</sup>, Yue Wang<sup>#</sup>. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. **Mediators of Inflammation**. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. PMID: 41624379. PMCID: PMC12860421.
 
 + Yiyin Chen, Haibo Huang, Xiang Wang, **Xinghao Yu**, Ziyan Huang, Zhou Jin, Chen Chen, Yan Chen, Bruce R. Blazar, Yang Xu, Yunjie Lu. Regulatory T Cells and Nanomaterials: Dual Perspectives in Therapeutics and Immunomodulation. **Small Science**. 2026 Jan;6(1):e202500481. doi: 10.1002/smsc.202500481. PMID: 41537174. PMCID: PMC12798795.
 
@@ -31,13 +31,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
 
-+ Binjie Zhu<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, **Huimin Lu**<sup>$</sup>, Mingzhu Su, Xiaomin Li, Jianhua Jin, Yongmin Yan, Yi Jin<sup>$</sup>. Prospective evidence for the gut-bone axis in osteoporotic fractures: Insights from genetic prediction and metabolite mediators. **Bone**. 2025 Dec;201:117651. doi: 10.1016/j.bone.2025.117651. PMID: 40972893.
++ Binjie Zhu<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, **Huimin Lu**<sup>$</sup>, Mingzhu Su, Xiaomin Li, Jianhua Jin<sup>#</sup>, Yongmin Yan<sup>#</sup>, Yi Jin<sup>#</sup>. Prospective evidence for the gut-bone axis in osteoporotic fractures: Insights from genetic prediction and metabolite mediators. **Bone**. 2025 Dec;201:117651. doi: 10.1016/j.bone.2025.117651. PMID: 40972893.
 
 + **Huimin Lu**<sup>$</sup>, Yi Jin<sup>$</sup>, Lin Zhu<sup>$</sup>, Yanfeng Hou, **Xinghao Yu**, Lijuan Wang<sup>#</sup>. Genetic evidence on the crucial role of immune cells in postpartum depression: Mendelian randomization analysis. **International Journal of Gynecology & Obstetrics**. 2025 Dec;171(3):1278-1286. doi: 10.1002/ijgo.70321. PMID: 40530757.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng, Shu-Feng Lei<sup>#</sup>. The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19. **Molecular Genetics and Genomics**. 2025 Oct 14;300(1):98. doi: 10.1007/s00438-025-02304-z. PMID: 41085581.
++ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup>. The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19. **Molecular Genetics and Genomics**. 2025 Oct 14;300(1):98. doi: 10.1007/s00438-025-02304-z. PMID: 41085581.
 
-+ Pengfei Li<sup>$</sup>, Qiyi Lei<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Ying Shen<sup>$</sup>, Yiyin Chen<sup>$</sup>, Chang Hou, Bo Hu, Yanfang Cui, Zhihua Liu, Yi Qin, Haiyan Liu, Dandan Lin<sup>#</sup>, Yang Xu<sup>#</sup>, Depei Wu<sup>#</sup>. Commensal Bacteroides T6SS alleviate GI-aGVHD via mediating gut microbiota composition and bile acids metabolism. **Gut**. 2025 Oct;74(11):1847-1858. doi: 10.1136/gutjnl-2024-334565. PMID: 40441865.
++ Pengfei Li<sup>$</sup>, Qiyi Lei<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Ying Shen<sup>$</sup>, Yiyin Chen<sup>$</sup>, Chang Hou, Bo Hu, Yanfang Cui, Zhihua Liu, Yi Qin, Haiyan Liu<sup>#</sup>, Dandan Lin<sup>#</sup>, Yang Xu<sup>#</sup>, Depei Wu<sup>#</sup>. Commensal Bacteroides T6SS alleviate GI-aGVHD via mediating gut microbiota composition and bile acids metabolism. **Gut**. 2025 Oct;74(11):1847-1858. doi: 10.1136/gutjnl-2024-334565. PMID: 40441865.
 
 + Yi-Yin Chen<sup>$</sup>, **Xinghao Yu**<sup>$</sup><sup>#</sup>, Yi-Ming Cai<sup>$</sup>, Zhou Jin, Yang Xu<sup>#</sup>. Large-scale mediator Mendelian randomization analysis identifies multiple immune cells mediating the causal link between gut microbes and chronic graft-versus-host disease risk. **Experimental Hematology**. 2025 Jul;147:104794. doi: 10.1016/j.exphem.2025.104794. PMID: 40316245.
 
