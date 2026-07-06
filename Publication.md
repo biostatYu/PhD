@@ -20,13 +20,13 @@
 
 + Yiyin Chen<sup>$</sup>, **Xinghao Yu**<sup>$</sup><sup>#</sup>, Zhou Jin<sup>$</sup>, Chuanhe Jiang<sup>$</sup>, Xiaoxia Hu<sup>#</sup>, Yang Xu<sup>#</sup>. Development and Validation of a Cytokine-Based Predictive Model for Acute GvHD and Composite Outcomes in ATG-Based Haploidentical Hematopoietic Stem Cell Transplantation. **Mediators of Inflammation**. 2026;2026(1):e3165406. doi: 10.1155/mi/3165406. PMID: 42377328.
 
-+ Yi Jin<sup>#</sup>, **Hui-Min Lu**, **Xing-Hao Yu**. Pleiotropic gene mapping reveals shared immune regulatory hubs across 15 autoimmune diseases. **Human Immunology**. 2026 Feb;87(2):111636. doi: 10.1016/j.humimm.2025.111636. PMID: 41406704.
++ Yi Jin<sup>#</sup>, **Huimin Lu**, **Xinghao Yu**. Pleiotropic gene mapping reveals shared immune regulatory hubs across 15 autoimmune diseases. **Human Immunology**. 2026 Feb;87(2):111636. doi: 10.1016/j.humimm.2025.111636. PMID: 41406704.
 
-+ Yi Jin<sup>$</sup><sup>#</sup>, **Hui-Min Lu**<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Ming-Zhu Su, Jun Li, Xiao-Min Li, Jian-Hua Jin<sup>#</sup>, Li-Ting Zhang<sup>#</sup>, Yue Wang<sup>#</sup>. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. **Mediators of Inflammation**. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. PMID: 41624379. PMCID: PMC12860421.
++ Yi Jin<sup>$</sup><sup>#</sup>, **Huimin Lu**<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Mingzhu Su, Jun Li, Xiaomin Li, Jianhua Jin<sup>#</sup>, Li-Ting Zhang<sup>#</sup>, Yue Wang<sup>#</sup>. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. **Mediators of Inflammation**. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. PMID: 41624379. PMCID: PMC12860421.
 
 + Yiyin Chen, Haibo Huang, Xiang Wang, **Xinghao Yu**, Ziyan Huang, Zhou Jin, Chen Chen, Yan Chen, Bruce R. Blazar, Yang Xu, Yunjie Lu. Regulatory T Cells and Nanomaterials: Dual Perspectives in Therapeutics and Immunomodulation. **Small Science**. 2026 Jan;6(1):e202500481. doi: 10.1002/smsc.202500481. PMID: 41537174. PMCID: PMC12798795.
 
-+ Zhi-Dan Yu, Hai-Bei Zang, Yun-Jie Zhu, **Xing-Hao Yu**, Chang-Hua Tang, Han-Wen Cao, Xiao-Li Huang, Lin Bo, Shu-Feng Lei, Fei-Yan Deng. Facial skin aging is a potential osteoporosis-associated marker: evidence from both observational and genetic studies. **Journal of Bone and Mineral Metabolism**. 2026 Jan;44(1):28-38. doi: 10.1007/s00774-025-01654-3. PMID: 41193836.
++ Zhi-Dan Yu, Hai-Bei Zang, Yun-Jie Zhu, **Xinghao Yu**, Chang-Hua Tang, Hanwen Cao, Xiao-Li Huang, Lin Bo, Shufeng Lei, Feiyan Deng. Facial skin aging is a potential osteoporosis-associated marker: evidence from both observational and genetic studies. **Journal of Bone and Mineral Metabolism**. 2026 Jan;44(1):28-38. doi: 10.1007/s00774-025-01654-3. PMID: 41193836.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2025
@@ -35,60 +35,60 @@
 
 + **Huimin Lu**<sup>$</sup>, Yi Jin<sup>$</sup>, Lin Zhu<sup>$</sup>, Yanfeng Hou, **Xinghao Yu**, Lijuan Wang<sup>#</sup>. Genetic evidence on the crucial role of immune cells in postpartum depression: Mendelian randomization analysis. **International Journal of Gynecology & Obstetrics**. 2025 Dec;171(3):1278-1286. doi: 10.1002/ijgo.70321. PMID: 40530757.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Han-Wen Cao, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup>. The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19. **Molecular Genetics and Genomics**. 2025 Oct 14;300(1):98. doi: 10.1007/s00438-025-02304-z. PMID: 41085581.
++ **Xinghao Yu**<sup>$</sup>, Rongrong Cao<sup>$</sup>, Yiqun Yang, Hanwen Cao, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. The crucial role of immune factors in susceptibility to SARS-CoV-2 infection and severity of COVID-19. **Molecular Genetics and Genomics**. 2025 Oct 14;300(1):98. doi: 10.1007/s00438-025-02304-z. PMID: 41085581.
 
 + Pengfei Li<sup>$</sup>, Qiyi Lei<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Ying Shen<sup>$</sup>, Yiyin Chen<sup>$</sup>, Chang Hou, Bo Hu, Yanfang Cui, Zhihua Liu, Yi Qin, Haiyan Liu<sup>#</sup>, Dandan Lin<sup>#</sup>, Yang Xu<sup>#</sup>, Depei Wu<sup>#</sup>. Commensal Bacteroides T6SS alleviate GI-aGVHD via mediating gut microbiota composition and bile acids metabolism. **Gut**. 2025 Oct;74(11):1847-1858. doi: 10.1136/gutjnl-2024-334565. PMID: 40441865.
 
-+ Yi-Yin Chen<sup>$</sup>, **Xinghao Yu**<sup>$</sup><sup>#</sup>, Yi-Ming Cai<sup>$</sup>, Zhou Jin, Yang Xu<sup>#</sup>. Large-scale mediator Mendelian randomization analysis identifies multiple immune cells mediating the causal link between gut microbes and chronic graft-versus-host disease risk. **Experimental Hematology**. 2025 Jul;147:104794. doi: 10.1016/j.exphem.2025.104794. PMID: 40316245.
++ Yiyin Chen<sup>$</sup>, **Xinghao Yu**<sup>$</sup><sup>#</sup>, Yiming Cai<sup>$</sup>, Zhou Jin, Yang Xu<sup>#</sup>. Large-scale mediator Mendelian randomization analysis identifies multiple immune cells mediating the causal link between gut microbes and chronic graft-versus-host disease risk. **Experimental Hematology**. 2025 Jul;147:104794. doi: 10.1016/j.exphem.2025.104794. PMID: 40316245.
 
-+ Yi-Qun Yang<sup>$</sup>, Han-Wen Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Lin Bo, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup>. Poor sleep and high rheumatoid arthritis risk: Evidence from large UK Biobank cohort. **PLOS ONE**. 2025 Apr 23;20(4):e0318728. doi: 10.1371/journal.pone.0318728. PMID: 40267155.
++ Yiqun Yang<sup>$</sup>, Hanwen Cao<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Lin Bo, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. Poor sleep and high rheumatoid arthritis risk: Evidence from large UK Biobank cohort. **PLOS ONE**. 2025 Apr 23;20(4):e0318728. doi: 10.1371/journal.pone.0318728. PMID: 40267155.
 
 + **Xinghao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Lei Lei<sup>$</sup>, Pengfei Li<sup>$</sup>, Dandan Lin, Ying Shen, Chang Hou, Jia Chen, Yi Fan, Yi Jin, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup>. Mendelian randomization analysis of blood metabolites and immune cell mediators in relation to GVHD and relapse. **BMC Medicine**. 2025 Apr 7;23(1):201. doi: 10.1186/s12916-025-04026-w. PMID: 40189523. PMCID: PMC11974087.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2024
 
-+ Guo-Wei Rong, Xiao-Min Li, **Hui-Min Lu**, Ming-Zhu Su, Yi Jin<sup>#</sup>. Association between 25(OH) vitamin D and schizophrenia: shared genetic correlation, pleiotropy, and causality. **Frontiers in Nutrition**. 2024 Dec 13;11:1415132. doi: 10.3389/fnut.2024.1415132. PMID: 39734669. PMCID: PMC11671254.
++ Guowei Rong, Xiaomin Li, **Huimin Lu**, Mingzhu Su, Yi Jin<sup>#</sup>. Association between 25(OH) vitamin D and schizophrenia: shared genetic correlation, pleiotropy, and causality. **Frontiers in Nutrition**. 2024 Dec 13;11:1415132. doi: 10.3389/fnut.2024.1415132. PMID: 39734669. PMCID: PMC11671254.
 
-+ **Xing-Hao Yu**<sup>$</sup>, **Hui-Min Lu**<sup>$</sup>, Jun Li, Ming-Zhu Su, Xiao-Min Li, Yi Jin<sup>#</sup>. Association between 25(OH) vitamin D and multiple sclerosis: cohort, shared genetics, and causality. **Nutrition Journal**. 2024 Nov 30;23(1):151. doi: 10.1186/s12937-024-01059-4. PMID: 39616386. PMCID: PMC11608472.
++ **Xinghao Yu**<sup>$</sup>, **Huimin Lu**<sup>$</sup>, Jun Li, Mingzhu Su, Xiaomin Li, Yi Jin<sup>#</sup>. Association between 25(OH) vitamin D and multiple sclerosis: cohort, shared genetics, and causality. **Nutrition Journal**. 2024 Nov 30;23(1):151. doi: 10.1186/s12937-024-01059-4. PMID: 39616386. PMCID: PMC11608472.
 
-+ Ya-Qi Hu<sup>$</sup>, Xiao-Jia Jin<sup>$</sup>, Shu-Feng Lei, **Xing-Hao Yu**<sup>#</sup>, Lin Bo<sup>#</sup>. Inflammatory bowel disease and osteoporosis: Common genetic effects, pleiotropy, and causality. **Human Immunology**. 2024 Sep;85(5):110856. doi: 10.1016/j.humimm.2024.110856. PMID: 39018711.
++ Yaqi Hu<sup>$</sup>, Xiaojia Jin<sup>$</sup>, Shufeng Lei, **Xinghao Yu**<sup>#</sup>, Lin Bo<sup>#</sup>. Inflammatory bowel disease and osteoporosis: Common genetic effects, pleiotropy, and causality. **Human Immunology**. 2024 Sep;85(5):110856. doi: 10.1016/j.humimm.2024.110856. PMID: 39018711.
 
 + **Xinghao Yu**<sup>$</sup>, Yiyin Chen<sup>$</sup>, Jia Chen, Yi Fan, Huimin Lu, Depei Wu<sup>#</sup>, Yang Xu<sup>#</sup>. Shared genetic architecture between autoimmune disorders and B-cell acute lymphoblastic leukemia: insights from large-scale genome-wide cross-trait analysis. **BMC Medicine**. 2024 Apr 15;22(1):161. doi: 10.1186/s12916-024-03385-0. PMID: 38616254. PMCID: PMC11017616.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
 
-+ Jie Gu<sup>$</sup>, Guan-Min Yan<sup>$</sup>, Xiao-Lin Kong, Yin-Ying Zhang, Li-Hong Huang, **Hui-Min Lu**<sup>#</sup>. Assessing the causal relationship between immune traits and systemic lupus erythematosus by bi-directional Mendelian randomization analysis. **Molecular Genetics and Genomics**. 2023;298(6):1493-1503. doi: 10.1007/s00438-023-02071-9.
++ Jie Gu<sup>$</sup>, Guan-Min Yan<sup>$</sup>, Xiao-Lin Kong, Yin-Ying Zhang, Li-Hong Huang, **Huimin Lu**<sup>#</sup>. Assessing the causal relationship between immune traits and systemic lupus erythematosus by bi-directional Mendelian randomization analysis. **Molecular Genetics and Genomics**. 2023;298(6):1493-1503. doi: 10.1007/s00438-023-02071-9.
 
 + Yi Jin<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Jun Li, Mingzhu Su, Xiaomin Li. Causal effects and immune cell mediators between prescription analgesic use and risk of infectious diseases: a Mendelian randomization study. **Frontiers in Immunology**. 2023 Dec 21;14:1319127. doi: 10.3389/fimmu.2023.1319127. PMID: 38193081. PMCID: PMC10772142.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Han-Wen Cao<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup>. Air pollution, genetic factors and the risk of osteoporosis: A prospective study in the UK Biobank. **Frontiers in Public Health**. 2023 Mar 21;11:1119774. doi: 10.3389/fpubh.2023.1119774. PMID: 37026121. PMCID: PMC10071034.
++ **Xinghao Yu**<sup>$</sup>, Hanwen Cao<sup>$</sup>, Lin Bo, Shufeng Lei<sup>#</sup>, Feiyan Deng<sup>#</sup>. Air pollution, genetic factors and the risk of osteoporosis: A prospective study in the UK Biobank. **Frontiers in Public Health**. 2023 Mar 21;11:1119774. doi: 10.3389/fpubh.2023.1119774. PMID: 37026121. PMCID: PMC10071034.
 
-+ **Xing-Hao Yu**, Rong-Rong Cao, Yi-Qun Yang, Fei-Yan Deng, Lin Bo, Shu-Feng Lei<sup>#</sup>. Body surface area is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590. PMID: 36502284.
++ **Xinghao Yu**, Rongrong Cao, Yiqun Yang, Feiyan Deng, Lin Bo, Shufeng Lei<sup>#</sup>. Body surface area is a potential obesity index: its genetic determination and its causality for later-life diseases. **Obesity**. 2023 Jan;31(1):256-266. doi: 10.1002/oby.23590. PMID: 36502284.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2022
 
-+ Rong-Rong Cao<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Meng-Fei Xiong, Xue-Ting Li, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup>. The immune factors have complex causal regulation effects on bone mineral density. **Frontiers in Immunology**. 2022 Oct 20;13:959417. doi: 10.3389/fimmu.2022.959417. PMID: 36341399. PMCID: PMC9630477.
++ Rongrong Cao<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Meng-Fei Xiong, Xue-Ting Li, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. The immune factors have complex causal regulation effects on bone mineral density. **Frontiers in Immunology**. 2022 Oct 20;13:959417. doi: 10.3389/fimmu.2022.959417. PMID: 36341399. PMCID: PMC9630477.
 
-+ Yi-Qun Yang<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Lin Bo, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup>. Genetic risk for osteoporosis and the benefit of adherence to healthy lifestyles. **International Journal of Public Health**. 2022 Sep 13;67:1605114. doi: 10.3389/ijph.2022.1605114. PMID: 36176357. PMCID: PMC9513025.
++ Yiqun Yang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Lin Bo, Shufeng Lei<sup>#</sup>, Feiyan Deng<sup>#</sup>. Genetic risk for osteoporosis and the benefit of adherence to healthy lifestyles. **International Journal of Public Health**. 2022 Sep 13;67:1605114. doi: 10.3389/ijph.2022.1605114. PMID: 36176357. PMCID: PMC9513025.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Lei Zhang, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup>. Systematic evaluation for the causal effects of blood metabolites on osteoporosis: genetic risk score and Mendelian randomization. **Frontiers in Public Health**. 2022 Aug 25;10:905178. doi: 10.3389/fpubh.2022.905178. PMID: 36091497. PMCID: PMC9452842.
++ **Xinghao Yu**<sup>$</sup>, Rongrong Cao<sup>$</sup>, Yiqun Yang, Lei Zhang, Shufeng Lei<sup>#</sup>, Feiyan Deng<sup>#</sup>. Systematic evaluation for the causal effects of blood metabolites on osteoporosis: genetic risk score and Mendelian randomization. **Frontiers in Public Health**. 2022 Aug 25;10:905178. doi: 10.3389/fpubh.2022.905178. PMID: 36091497. PMCID: PMC9452842.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Lin Bo, Rong-Rong Cao, Yi-Qun Yang, Pei He, Shu-Feng Lei<sup>#</sup>, Fei-Yan Deng<sup>#</sup>. Systematic evaluation of rheumatoid arthritis risk by integrating lifestyle factors and genetic risk scores. **Frontiers in Immunology**. 2022 Jul 6;13:901223. doi: 10.3389/fimmu.2022.901223. PMID: 35874719. PMCID: PMC9299428.
++ **Xinghao Yu**<sup>$</sup>, Lin Bo, Rongrong Cao, Yiqun Yang, Pei He, Shufeng Lei<sup>#</sup>, Feiyan Deng<sup>#</sup>. Systematic evaluation of rheumatoid arthritis risk by integrating lifestyle factors and genetic risk scores. **Frontiers in Immunology**. 2022 Jul 6;13:901223. doi: 10.3389/fimmu.2022.901223. PMID: 35874719. PMCID: PMC9299428.
 
-+ **Xing-Hao Yu**<sup>$</sup>, Rong-Rong Cao<sup>$</sup>, Yi-Qun Yang, Shu-Feng Lei<sup>#</sup>. Identification of causal metabolites related to multiple autoimmune diseases. **Human Molecular Genetics**. 2022 Feb 21;31(4):604-613. doi: 10.1093/hmg/ddab273. PMID: 34523675.
++ **Xinghao Yu**<sup>$</sup>, Rongrong Cao<sup>$</sup>, Yiqun Yang, Shufeng Lei<sup>#</sup>. Identification of causal metabolites related to multiple autoimmune diseases. **Human Molecular Genetics**. 2022 Feb 21;31(4):604-613. doi: 10.1093/hmg/ddab273. PMID: 34523675.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2021
 >
 
-+ **Xing-Hao Yu**<sup>$</sup>, Yi-Qun Yang<sup>$</sup>, Rong-Rong Cao, Lin Bo, Shu-Feng Lei<sup>#</sup>. The causal role of gut microbiota in development of osteoarthritis. **Osteoarthritis and Cartilage**. 2021 Dec;29(12):1741-1750. doi: 10.1016/j.joca.2021.08.003. PMID: 34425228.
++ **Xinghao Yu**<sup>$</sup>, Yiqun Yang<sup>$</sup>, Rongrong Cao, Lin Bo, Shufeng Lei<sup>#</sup>. The causal role of gut microbiota in development of osteoarthritis. **Osteoarthritis and Cartilage**. 2021 Dec;29(12):1741-1750. doi: 10.1016/j.joca.2021.08.003. PMID: 34425228.
 
-+ **Xing-Hao Yu**, Yi-Qun Yang, Rong-Rong Cao, Mu-Kun Cai, Lei Zhang, Fei-Yan Deng<sup>#</sup>, Shu-Feng Lei<sup>#</sup>. Rheumatoid arthritis and osteoporosis: shared genetic effect, pleiotropy and causality. **Human Molecular Genetics**. 2021 Oct 13;30(21):1932-1940. doi: 10.1093/hmg/ddab158. PMID: 34132789.
++ **Xinghao Yu**, Yiqun Yang, Rongrong Cao, Mu-Kun Cai, Lei Zhang, Feiyan Deng<sup>#</sup>, Shufeng Lei<sup>#</sup>. Rheumatoid arthritis and osteoporosis: shared genetic effect, pleiotropy and causality. **Human Molecular Genetics**. 2021 Oct 13;30(21):1932-1940. doi: 10.1093/hmg/ddab158. PMID: 34132789.
 
-+ **Xing-Hao Yu**, Yong-Yue Wei, Ping Zeng<sup>#</sup>, Shu-Feng Lei<sup>#</sup>. Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**. 2021 Aug;36(8):1469-1480. doi: 10.1002/jbmr.4316. PMID: 34105796.
++ **Xinghao Yu**, Yong-Yue Wei, Ping Zeng<sup>#</sup>, Shufeng Lei<sup>#</sup>. Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**. 2021 Aug;36(8):1469-1480. doi: 10.1002/jbmr.4316. PMID: 34105796.
 
 + Lihong Huang<sup>$</sup>, **Xinghao Yu**<sup>$</sup>, Zhou Jiang, Ping Zeng<sup>#</sup>. Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**. 2021 Jun 17;12:673319. doi: 10.3389/fgene.2021.673319. PMID: 34220946. PMCID: PMC8248343.
 
