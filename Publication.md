@@ -16,6 +16,10 @@
 
 > ## 2026
 
++ Zhenxing Jiang, **Xinghao Yu**, **Huimin Lu**, Mingzhu Su, Xiaomin Li, Qin Su, Lijuan Wang, Jianhua Jin<sup>#</sup>, Yi Jin<sup>#</sup>. Gut-reproduction axis: genome-wide pleiotropic and prospective evidence linking inflammatory bowel disease with gynecological disorders. Inflamm Res. 2026 Jun 4;75(1):133. doi: 10.1007/s00011-026-02250-5. PMID: 42243339.
+
++ Yiyin Chen, **Xinghao Yu**, Zhou Jin, Chuanhe Jiang, Xiaoxia Hu, Yang Xu<sup>#</sup>. Development and Validation of a Cytokine-Based Predictive Model for Acute GvHD and Composite Outcomes in ATG-Based Haploidentical Hematopoietic Stem Cell Transplantation. Mediators Inflamm. 2026;2026(1):e3165406. doi: 10.1155/mi/3165406. PMID: 42377328.
+
 + Yi Jin<sup>$</sup>, **Hui-Min Lu**<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>. Pleiotropic gene mapping reveals shared immune regulatory hubs across 15 autoimmune diseases. Hum Immunol. 2026 Feb;87(2):111636. doi: 10.1016/j.humimm.2025.111636. PMID: 41406704.
 
 + Yi Jin<sup>$</sup>, **Hui-Min Lu**<sup>$</sup>, **Xing-Hao Yu**<sup>$</sup>, Ming-Zhu Su, Jun Li, Xiao-Min Li, Jian-Hua Jin, Li-Ting Zhang, Yue Wang. Convergent Multistage Evidence Implicates the CCR2-Artemin Immune-Inflammation Axis in Acute Myeloid Leukemia. Mediators Inflamm. 2026 Jan 31;2026:2476470. doi: 10.1155/mi/2476470. PMID: 41624379. PMCID: PMC12860421.
